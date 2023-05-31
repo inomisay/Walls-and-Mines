@@ -39,10 +39,7 @@ Mine: +
 
 * Game area consists of 4*10 cores of walls.  
 
-#### <-- Cores are blueprints of 4 walls which are square shaped. 
-#  #     In the game, a core must have min. 1 wall, max. 3 walls. 
-#  #     Each wall is randomly generated with 50% probability.
-####
+<img width="617" alt="Screen Shot 2023-05-31 at 15 57 35" src="https://github.com/inomisay/Walls-and-Mines/assets/98346164/04c04c94-e23d-4e92-a3f5-22e6d8d68fee">
 
 * Human player P is located randomly. Energy of P is 200 at the beginning.
 
@@ -67,7 +64,7 @@ If the human player has no energy, his/her movement speed is reduced by half.
 *	There can be only 1 game object (characters, items or walls) in a game square.
 
 
-*Changes with time:
+*Changes with time:*
 
 *	1 number (1, 2, or 3 with the same generation probabilities) is added to the game area (random position) for every 10 time units. 
 
